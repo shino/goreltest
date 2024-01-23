@@ -1,1 +1,1 @@
-go release test
+# go release test
